@@ -9,5 +9,6 @@ A customer database completed for my programming test as a Junior Applications D
 - Add a Customer - adds a customer to the database
 - Edit / Delete Customer Information - edit an existing customer's information or delete an existing customer
 
+Site runs with a SQL Server Express database that (hopefully!) should be included and deploy with the project when opened.
 
-Currently uploading just the site without the database - will create a local version later. Hope to add on Bootstrap to the site before I turn everything in. 
+Hope to add on Bootstrap to the site before I turn everything in. 
