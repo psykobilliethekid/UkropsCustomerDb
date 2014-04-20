@@ -11,4 +11,8 @@ A customer database completed for my programming test as a Junior Applications D
 
 Site runs with a SQL Server Express database that (hopefully!) should be included and deploy with the project when opened.
 
+<<<<<<< HEAD
 Hope to add on Bootstrap to the site before I turn everything in. 
+=======
+Hope to add on Bootstrap to the site before I turn everything in. 
+>>>>>>> 996efe25095e76b346c2fdb59caddb8825f713d7
