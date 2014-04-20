@@ -4,10 +4,14 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-    <h2>
-        About
-    </h2>
+    <h2>About the Site</h2>
     <p>
-        Put content here.
+        Site Name: Ukrop's Customer Database Programming Test <br />
+        Description: Programming test for the Junior Applications Developer postion at Ukrop's Homestyle Foods. <br />
+        Author: Danielle "Dani" Moss <br />
+        Author URI: http://blueshelltarge4t.wordpress.com <br />
+        Version: 1.0.0
+    
     </p>
+  
 </asp:Content>

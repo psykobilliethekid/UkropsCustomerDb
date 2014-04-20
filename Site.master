@@ -13,9 +13,7 @@
     <div class="page">
         <div class="header">
             <div class="title">
-                <h1>
-                    Ukrop's Homestyle Foods Customer Database
-                </h1>
+                <img src="Img/logo.png" alt="logo" />
             </div>
 <%--            <div class="loginDisplay">
                 <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
